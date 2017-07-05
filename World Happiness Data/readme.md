@@ -29,7 +29,7 @@ This notebook is a detailed investigation on world happiness. The art behind hap
 - Linear Regression
 - Random Forest Regression
 
-Investigation result
+## Investigation result
 - Happiness Ranking basically depends on Economy. Countries having strong GDP rate are happiest countries indeed.
 - Happiness score depends on family, health, freedom, trust on govt. etc. All of these terms have a great linear relationship with happiness score.
 - World happiness doesn't define generosity or genesrosity has no remarkable impact on Happiness score.
