@@ -1,5 +1,5 @@
 # Kaggle projects kernels on specific datasets 
-This repo contains my project on  competition or working with several data in kaggle. Kaggle is a website for arranging contest on Machine Learning and sharing datasets for data scientist across the world. This projects may help on you starting Machine learning and practicing in kagggle. 
+This repo contains my projects on  competition or working with several data in kaggle. Kaggle is a website for arranging contest on Machine Learning and sharing datasets for data scientist across the world. This projects may help on you starting Machine learning and practicing in kagggle. 
 
 ## What you may learn here?
 Here I've listed all of my kaggle projects on Machine learning and Artificial Intelligence. Some of my projects are done focusing on very introductory and detailed for machine learning beginners. I've quite good sample projects on Data analysis and visualization. You may check them for brushing up your Data science Knowledge. 
