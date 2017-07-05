@@ -18,6 +18,7 @@ This is perhaps the best known database to be found in the pattern recognition l
 Check wikipedia for details - https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 ### Dependencies
+This project requires *Python 3.5* and the following Python libraries installed:
 - [SciPy](http://www.scipy.org/)
 - [Scikit Learn](http://scikit-learn.org)
 - [Numpy](http://www.numpy.org/)
