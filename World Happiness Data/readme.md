@@ -15,6 +15,9 @@ This project requires Python 3.5 and the following Python libraries installed:
 - [Seaborn](http://seaborn.pydata.org/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/).
+
+Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 ### Visualization: Question Answered
 - Happiest regions listing based on happiness score
 - Top Fifteen happiest countries in world and their Happiness Score
