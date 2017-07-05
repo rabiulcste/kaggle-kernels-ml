@@ -24,6 +24,7 @@ This project requires *Python 3.5* and the following Python libraries installed:
 - [Numpy](http://www.numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](http://seaborn.pydata.org/)
+
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/).
 
 ### Visualization And Analyzing Part: Question Answerd
