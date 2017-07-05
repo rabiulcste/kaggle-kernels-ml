@@ -6,7 +6,7 @@ Simple project for visualizing iris species datset and identiying Irish flower s
 Dependencies
 ------------------------
 
-- 'SciPy < http://www.scipy.org/ >'_
-- 'Scikit Learn < http://scikit-learn.org/ >'_
-- 'Numpy < http://www.numpy.org/ >'_
-- 'Matplotlib < https://matplotlib.org/ >'_
+- SciPy [http://www.scipy.org/]
+- Scikit Learn [http://scikit-learn.org]
+- Numpy  [http://www.numpy.org/]
+- Matplotlib [https://matplotlib.org/]
