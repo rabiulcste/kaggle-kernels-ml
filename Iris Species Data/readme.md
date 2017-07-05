@@ -1,4 +1,5 @@
 Irish Flower Classifier
+------------------------
 
 Simple project for visualizinf iris species datset and identiying Irish flower species based on it's sepal and petal dimensions.
 
