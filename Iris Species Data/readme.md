@@ -18,8 +18,23 @@ This is perhaps the best known database to be found in the pattern recognition l
 Check wikipedia for details - https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 ## Dependencies
-- [SciPy] [http://www.scipy.org/]
-- [Scikit Learn] [http://scikit-learn.org]
-- [Numpy] [http://www.numpy.org/]
-- [Matplotlib] [https://matplotlib.org/]
-- [Seaborn] [http://seaborn.pydata.org/]
+- [SciPy] (http://www.scipy.org/)
+- [Scikit Learn] (http://scikit-learn.org)
+- [Numpy] (http://www.numpy.org/)
+- [Matplotlib] (https://matplotlib.org/)
+- [Seaborn] (http://seaborn.pydata.org/)
+
+## Visualization And Analyzing Part: Question Answerd
+1. Relationship between the Sepal Length and Width using scatter plot
+2. Histagrams on iris features
+3. Take a look at density
+4. Seaborn jointplot on sepal_length vs sepal_width
+5. Pairplot which shows the bivariate relation among features
+6. Correlations among feautres
+
+## Machine Learning Models: Finding Best Accuray Model
+1. Decision Tree classifier
+2. Logistic Regression
+3. KNN classifier
+4. Support Vector Machines
+5. Random Forests (n Decision trees)
