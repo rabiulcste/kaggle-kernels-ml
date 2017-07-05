@@ -27,6 +27,8 @@ This project requires *Python 3.5* and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/).
 
+Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 ### Visualization And Analyzing Part: Question Answerd
 1. Relationship between the Sepal Length and Width using scatter plot
 2. Histagrams on iris features
