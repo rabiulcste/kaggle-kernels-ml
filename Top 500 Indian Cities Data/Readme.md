@@ -42,5 +42,24 @@ You will also need to have software installed to run and execute a [Jupyter Note
 Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Visualization: Question Answered
-
+- Which are the top 10 highly populated cities of the country?
+- What states listed top by number of cities in 500?
+- What are the most populated states of India?
+- Show total population of the country in cities map
+- What are the most male populated states?
+- What are the most female populated states?
+- What are top 10 literate cities of India?
+- Find effective literates across states.
+- Analyzing graduates across states.
+- What are top 50 cities by population in India?
+- Show total graduate percentage in entire population of top 50 cities?
+- What are the top 15 cities where female gradutes lives?
+- Show difference in average number of male and female graduates?
+- Show difference in average number of male and female literates?
+- Analyzing Sex ratio across states.
+- Male vs female literates comparison.
+- What are the facts of top states?
+- Is there any linear relation between sex ration and graduate ratio?
+- What are the top 5 undeveloped states of India?
+- What are the top 10 undeveloped cities of India?
 ## Investigation result
