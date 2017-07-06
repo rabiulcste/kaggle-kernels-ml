@@ -20,4 +20,4 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 ### Project list
 - [**Intro to Python Data Visualization and Machine Learning using Iris Data**](https://github.com/rabiulcste/Kaggle-Kernels-ML/tree/master/Iris%20Species%20Data)
 - [**Art of Happiness: An investigation on World Happiness Data**](https://github.com/rabiulcste/Kaggle-Kernels-ML/tree/master/World%20Happiness%20Data)
-- [**Story of Top 500 Indian Cities**](https://github.com/rabiulcste/Kaggle-Kernels-ML/tree/master/Top%20500%20Indian%20Cities%20Data)
+- [**Story of Top 500 Indian Cities using census 2011**](https://github.com/rabiulcste/Kaggle-Kernels-ML/tree/master/Top%20500%20Indian%20Cities%20Data)
