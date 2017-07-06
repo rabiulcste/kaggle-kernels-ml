@@ -1,11 +1,33 @@
 # Story of Top 500 Indian Cities
- the census 2011 of Indian Cities with Population more than 1 Lac and City wise number of Graduates from the Census 2011, to create a visualization of where the future cities of India stands today,
+### Dataset Info
+The census 2011 of Indian Cities with Population more than 1 Lac and City wise number of Graduates from the Census 2011, to create a visualization of where the future cities of India stands today. 
+
+#### Attributes Info
+- 'name_of_city' : Name of the City
+- 'state_code' : State Code of the City
+- 'state_name' : State Name of the City
+- 'dist_code' : District Code where the city belongs ( 99 means multiple district )
+- 'population_total' : Total Population
+- 'population_male' : Male Population
+- 'population_female' : Female Population
+- '0-6_population_total' : 0-6 Age Total Population
+- '0-6_population_male' : 0-6 Age Male Population
+- '0-6_population_female' : 0-6 Age Female Population
+- 'literates_total' : Total Literates
+- 'literates_male' : Male Literates
+- 'literates_female' : Female Literates
+- 'sex_ratio' : Sex Ratio
+- 'child_sex_ratio' : Sex ratio in 0-6
+- 'effective_literacy_rate_total' : Literacy rate over Age 7
+- 'effective_literacy_rate_male' : Male Literacy rate over Age 7
+- 'effective_literacy_rate_female': Female Literacy rate over Age 7
+- 'location' : Lat,Lng
+- 'total_graduates' : Total Number of Graduates
+- 'male_graduates' : Male Graduates
+- 'female_graduates' : Female Graduates
  
 ### What you may learn here?
-This notebook is a detailed investigation on top 500 Indian cities.
-
-### Dataset Context
-The World Happiness Report is a landmark survey of the state of global happiness. The first report was published in 2012, the second in 2013, the third in 2015, and the fourth in the 2016 Update. The World Happiness 2017, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
+This notebook is a detailed investigation on top 500 Indian cities. I worked from two side. One approach is statewise analysis and another one citywise. Findings was quite interesting!
 
 ### Dependencies
 This project requires Python 3.5 and the following Python libraries installed:
